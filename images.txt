@@ -1,4 +1,4 @@
-avacalho/quilibrium:2.0.0.4
+avacalho/quilibrium:2.0.0.6
 # pingpongbuild/station:20240628
 # cssshow/nubit_node:latest
 # redis:7.0-bullseye
