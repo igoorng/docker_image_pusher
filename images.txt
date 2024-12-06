@@ -1,5 +1,5 @@
 # lscr.io/linuxserver/chromium:latest
-docker.io/glaciernetwork/glacier-verifier:v0.0.1
+qliplatform/qubic-client:cuda
 # avacalho/quilibrium:2.0.0.7
 # pingpongbuild/station:20240628
 # cssshow/nubit_node:latest
