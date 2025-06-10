@@ -9,3 +9,5 @@
 # --platform=linux/amd64 
 # 代码拉取 registry.cn-hangzhou.aliyuncs.com/docker-hub-bak/
 
+## kuzco 镜像 
+inferencedevnet/amd64-nvidia-inference-node:latest
